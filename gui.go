@@ -17,6 +17,7 @@ import (
 
 // OverlappingEdges determines if panel edges overlap
 var OverlappingEdges = false
+var OverlappingEdges111 = false
 
 type stateType struct {
 	GitFiles          []GitFile
